@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeisaRaja
-- 👀 I’m interested in web development and automation
-- 🌱 I’m currently learning javascript and flask 
+- 👀 I’m interested in web development, automation and also data science field
+- 🌱 I’m currently learning react and nodeJs
 
 
 <!---
