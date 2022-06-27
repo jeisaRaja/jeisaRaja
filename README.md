@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jeisaRaja
-- 👀 I’m interested in web development, automation and also data science field
-- 🌱 I’m currently learning react and nodeJs
+- 👋 Hi, I’m @jeisaRaja.
+- 👀 I’m interested in web developments, especially the backend sides.
+- 🌱 I’m currently learning express.js and want to learn Go.
 
 
 <!---
