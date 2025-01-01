@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeisaraja&label=Profile%20views&color=000000&style=plastic" alt="jeisaraja" /> </p>
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **C** and **C++**
 
 - 👨‍💻 All of my projects are available at [https://jeisaraja.tech/](https://jeisaraja.tech/)
 
